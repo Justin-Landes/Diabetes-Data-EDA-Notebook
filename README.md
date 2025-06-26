@@ -1,9 +1,15 @@
-# Diabetes Data EDA Notebook
+# Diabetes Dataset – Exploratory Data Analysis
 
-This project performs exploratory data analysis (EDA) on a public dataset of patients with diabetes to uncover patterns, correlations, and outliers. The goal is to understand the underlying structure of the data before applying any machine learning models.
+This project explores the Pima Indians Diabetes dataset using Python to identify feature relationships, clean invalid data, and prepare for predictive modeling.
 
-### Key Skills Demonstrated
-- Data cleaning and preparation with Pandas
-- Descriptive statistics and distribution analysis
-- Visualization with Matplotlib and Seaborn
-- Feature correlation mapping and insight extraction
+## Highlights
+- Detect and clean biologically invalid values
+- Visualize feature distributions and outcome splits
+- Analyze correlations and draw actionable insights
+- Save cleaned data for future ML models
+
+## Tools
+- Python, Pandas, Seaborn, Matplotlib, Jupyter
+
+## Data Source
+[Kaggle – Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)

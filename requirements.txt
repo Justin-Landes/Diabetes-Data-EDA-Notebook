@@ -1,21 +1,6 @@
 # Core project dependencies
-# (Add any specific project libraries below)
-
-# Testing
-pytest
-
-# Linting
-flake8
-
-# Code formatting
-black
-
-# Type checking (optional but recommended)
-mypy
-
-# Import sorting (optional but helps with consistency)
-isort
-
-# Test coverage (optional but useful later)
-coverage
-
+pandas>=2.0.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+jupyterlab
+numpy>=1.24.0
